@@ -16,3 +16,8 @@ A simple Java console-based project to manage student records using Object-Orien
 ## 🔧 How to Run
 1. Open terminal in the folder
 2. Compile:
+3. Run:
+
+## 🔮 Future Plans
+- Add GUI version (Java Swing)
+- Save student data to file or database
